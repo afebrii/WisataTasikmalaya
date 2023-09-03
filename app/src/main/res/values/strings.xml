@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">WisataTasikmalaya</string>
+    <string name="wisata_name">Nama Wisata</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+
+    <string-array name="data_name">
+        <item>Wahana Alam Parung</item>
+        <item>Bukit Panyangrayan</item>
+        <item>Goa Safarwadi</item>
+        <item>Gunung Galunggung</item>
+        <item>Kampung Naga</item>
+        <item>Karang Resik</item>
+        <item>Karang Tawulan</item>
+        <item>Kopi Sarasa</item>
+        <item>Situ Gede</item>
+        <item>Teejay</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Deskripsi_Wahana Alam Parung</item>
+        <item>Deskripsi_Bukit Panyangrayan</item>
+        <item>Deskripsi_Goa Safarwadi</item>
+        <item>Deskripsi_Gunung Galunggung</item>
+        <item>Deskripsi_Kampung Naga</item>
+        <item>Deskripsi_Karang Resik</item>
+        <item>Deskripsi_Karang Tawulan</item>
+        <item>Deskripsi_Kopi Sarasa</item>
+        <item>Deskripsi_Situ Gede</item>
+        <item>Deskripsi_Teejay</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/alam_parung</item>
+        <item>@drawable/bukit_panyangrayan</item>
+        <item>@drawable/goa_safarwadi</item>
+        <item>@drawable/gunung_galunggung</item>
+        <item>@drawable/kampung_naga</item>
+        <item>@drawable/karang_resik</item>
+        <item>@drawable/karang_tawulan</item>
+        <item>@drawable/kopi_sarasa</item>
+        <item>@drawable/situ_gede</item>
+        <item>@drawable/teejay</item>
+    </integer-array>
+</resources>
