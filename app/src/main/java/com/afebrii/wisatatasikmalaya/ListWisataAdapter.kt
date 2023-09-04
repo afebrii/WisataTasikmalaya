@@ -1,5 +1,6 @@
 package com.afebrii.wisatatasikmalaya
 
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -8,12 +9,8 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 
-class ListWisataAdapter(private val listWisata: ArrayList<Wisata>) : RecyclerView.Adapter<ListWisataAdapter.ListViewHolder>() {
-    private lateinit var onItemClickCallback: OnItemClickCallback
-
-    fun setOnItemClickCallback(onItemClickCallback: OnItemClickCallback) {
-        this.onItemClickCallback = onItemClickCallback
-    }
+class ListWisataAdapter(private val listWisata: ArrayList<Wisata>) :
+    RecyclerView.Adapter<ListWisataAdapter.ListViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ListViewHolder {
         val view: View = LayoutInflater.from(parent.context).inflate(R.layout.item_row_wisata, parent, false)
@@ -25,7 +22,15 @@ class ListWisataAdapter(private val listWisata: ArrayList<Wisata>) : RecyclerVie
         holder.imgPhoto.setImageResource(photo)
         holder.tvName.text = name
         holder.tvDescription.text = description
-        holder.itemView.setOnClickListener { onItemClickCallback.onItemClicked(listWisata[holder.adapterPosition]) }
+
+        holder.itemView.setOnClickListener{
+            val mContext = holder.itemView.context
+            val moveDetail = Intent(mContext, DetailActivity::class.java)
+            moveDetail.putExtra(DetailActivity.EXTRA_NAME, name)
+            moveDetail.putExtra(DetailActivity.EXTRA_PHOTO, photo)
+            moveDetail.putExtra(DetailActivity.EXTRA_DESCRIPTION, description)
+            mContext.startActivity(moveDetail)
+        }
     }
 
     override fun getItemCount(): Int = listWisata.size
@@ -36,7 +41,4 @@ class ListWisataAdapter(private val listWisata: ArrayList<Wisata>) : RecyclerVie
         val tvDescription: TextView = itemView.findViewById(R.id.tv_item_description)
     }
 
-    interface OnItemClickCallback {
-        fun onItemClicked(data: Wisata)
-    }
 }

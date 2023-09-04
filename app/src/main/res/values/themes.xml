@@ -1,9 +1,14 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.WisataTasikmalaya" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.WisataTasikmalaya" parent="Theme.Material3.DayNight">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
     <style name="Theme.WisataTasikmalaya" parent="Base.Theme.WisataTasikmalaya" />
+
+<!--    <style name="Theme.WisataTasikmalaya.Starting" parent="Theme.SplashScreen">-->
+<!--        <item name="windowSplashScreenAnimatedIcon">@drawable/pp</item>-->
+<!--        <item name="postSplashScreenTheme">@style/Theme.WisataTasikmalaya</item>-->
+<!--    </style>-->
 </resources>

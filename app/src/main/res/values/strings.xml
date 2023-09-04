@@ -1,8 +1,9 @@
 <resources>
-    <string name="app_name">WisataTasikmalaya</string>
+    <string name="app_name">Wisata Tasikmalaya</string>
     <string name="wisata_name">Nama Wisata</string>
     <string name="description">Deskripsi</string>
     <string name="about">About</string>
+    <string name="data_received">Data Diterima</string>
 
     <string-array name="data_name">
         <item>Wahana Alam Parung</item>
@@ -18,16 +19,33 @@
     </string-array>
 
     <string-array name="data_description">
-        <item>Deskripsi_Wahana Alam Parung</item>
-        <item>Deskripsi_Bukit Panyangrayan</item>
-        <item>Deskripsi_Goa Safarwadi</item>
-        <item>Deskripsi_Gunung Galunggung</item>
-        <item>Deskripsi_Kampung Naga</item>
-        <item>Deskripsi_Karang Resik</item>
-        <item>Deskripsi_Karang Tawulan</item>
-        <item>Deskripsi_Kopi Sarasa</item>
-        <item>Deskripsi_Situ Gede</item>
-        <item>Deskripsi_Teejay</item>
+        <item>Wahana Alam Parung merupakan tempat wisata yang terletak di Tasikmalaya, Jawa Barat. Berada di wilayah perbukitan hijau, tempat ini cocok banget buat kamu yang ingin berlibur sekaligus melepas penat bareng keluarga.
+Selain dapat menikmati beragam fasilitas dan wahana seru, kamu juga akan dimanjakan dengan keindahan hamparan bukit dan persawahan yang terbentang di hadapannya. Buat kamu yang berencana liburan tapi masih bingung menentukan pilihan, mengunjungi Wisata Alam Parung bisa jadi solusinya.
+Memiliki akses yang mudah, serta tidak jauh dari pusat kota Tasikmalaya, kamu bisa menempuh waktu perjalanan selama kurang lebih satu jam berkendara.</item>
+        <item>Bukit Panyangrayan merupakan salah-satu tempat wisata Tasikmalaya terbaru, dan mampu memikat hati para pengunjungnya dengan sajian pesona alam, ragam wahana, dan spot selfie yang instagramable.
+Bukit Panyangrayan memiliki sejarah inspiratif dalam upaya merevitalisasi potensi alam, yang bermuara menjadi sebuah wisata keluarga di Tasikmalaya yang sangat populer.
+Tidak sedikit pengunjung yang mengatakan bahwa Bukit Panyangrayan Tasikmalaya, layaknya negeri di atas awan, khususnya saat berada di puncak bukitnya.
+Keberadaan spot selfie yang kekinian, menjadi sebuah penegasan bahwa Bukit Panyangrayan cocok sebagai wisata alam instagramable, tempat nongkrong yang nyaman di Tasikmalaya, yang menyajikan nuansa romantis, berlatarkan pesona alam yang indah.</item>
+        <item> Goa Safarwadi Pamijahan Tasikmalaya merupakan  lokasi makam Syekh Abdul Muhyi seorang ulama penyebar agama Islam di daerah Tasikmalaya pada masanya.
+Goa Safarwadi merupakan tempat untuk berkumpulnya para wali kala itu Goa tersebut juga digunakan Syaikh Abdul Muhyi untuk mendidik santri-santrinya.
+Goa ini memiliki daya tarik yang luar biasa bagi para peziarah,  setiap harinya Goa ini selalu ramai dikunjungi.
+Goa Safarwadi yang berlokasi di Pamijahan Kecamatan Bantarkalong, Kabupaten Tasikmalaya, Jawa Barat ini memiliki cerita mitos yang masih dipercaya dan diyakini oleh sebagian masyarakat.</item>
+        <item>Tempat wisata Gunung Galunggung menjadi salah satu destinasi wisata favorit disaat musim libur Lebaran Idul Fitri 1444 H.
+Gunung Galunggung memiliki ketinggian 2.167 meter di atas permukaan laut (mdpl). Gunung Galunggung berada di kawasan Perhutani, Desa Linggajati, Kecamatan Sukaratu, Kabupaten Tasikmalaya.
+Di kawasan Gunung Galunggung, ada beberapa wana wisata yang bisa dinikmati oleh para pengunjung. Di antaranya Kawah Galunggung, Pemandian Air Panas, Curug (air terjun), Camping Ground Bukit Nangreu, dan trek bersepeda downhill.</item>
+        <item>Kampung Naga, satu dari sekian kampung-kampung adat yang ada di Jawa Barat. Kampung Naga terletak tidak jauh dari jalasn raya yang menghubungkan daerah Garut dengan Tasikmalaya. Kampung ini berada pada suatu lembah yang subur, dilalui oleh sebuah sungai bernama sungai Ciwulan yang bermata air di Gunung Cikuray di daerah Garut. Seacra administratif, Kampung Naga berada di wilayah Desa Neglasari Kecamatan Salawu Kabupaten Tasikmalaya. Dari Tasikmalaya ke Kampung Naga sekira berjarak lebih lagi mendirikan rumah baru kurang 30 kilometer. Untuk mencapai Kampung tersebut dari arah jalan raya Garut – Tasikmalaya, harus menuruni anak tangga sekira 335 anak tangga hingga sungai Ciwulan dengan kemiringan 45 derajat. Penduduk Kampung Naga adalah penganut agama Islam, di samping masih memegang teguh adat istiadat yang secara turun temurun berasal dari nenek moyang mereka. Karena areal Kampung Naga terbatas, sehingga tidak memungkinkan lagi mendirikan rumah baru, maka banyak penduduk yang termasuk adat sa-Naga bertempat tinggal di di luar Kampung Naga maupun di luar Desa Neglasari. Bahkan ada diantara mereka yang bertempat tinggal di Kota Garut.Kampung Naga, satu dari sekian kampung-kampung adat yang ada di Jawa Barat. Kampung Naga terletak tidak jauh dari jalasn raya yang menghubungkan daerah Garut dengan Tasikmalaya. Kampung ini berada pada suatu lembah yang subur, dilalui oleh sebuah sungai bernama sungai Ciwulan yang bermata air di Gunung Cikuray di daerah Garut. Seacra administratif, Kampung Naga berada di wilayah Desa Neglasari Kecamatan Salawu Kabupaten Tasikmalaya. Dari Tasikmalaya ke Kampung Naga sekira berjarak lebih lagi mendirikan rumah baru kurang 30 kilometer. Untuk mencapai Kampung tersebut dari arah jalan raya Garut – Tasikmalaya, harus menuruni anak tangga sekira 335 anak tangga hingga sungai Ciwulan dengan kemiringan 45 derajat. Penduduk Kampung Naga adalah penganut agama Islam, di samping masih memegang teguh adat istiadat yang secara turun temurun berasal dari nenek moyang mereka. Karena areal Kampung Naga terbatas, sehingga tidak memungkinkan lagi mendirikan rumah baru, maka banyak penduduk yang termasuk adat sa-Naga bertempat tinggal di di luar Kampung Naga maupun di luar Desa Neglasari. Bahkan ada diantara mereka yang bertempat tinggal di Kota Garut.</item>
+        <item>Untuk menebus pengalaman berwisata yang menarik di Taman Wisata Karang Resik pengunjung dikenakan tarif tiket masuk Rp 35 ribu per orang. Ini sudah termasuk tiket untuk menikmati suasana kampung Korea dan anjungan 4 negara lainnya.
+Sementara jika ingin masuk waterpark dikenakan tarif tiket tambahan Rp 20 ribu. Kemudian untuk tiket tambahan masuk Farm House sebesar Rp 25 ribu.
+Lokasi Taman Wisata Karang Resik berada di Jalan Moch. Hatta Kelurahan Sukamanah Kecamatan Cipedes Kota Tasikmalaya. Lokasinya persis berada di perbatasan antara Kota Tasikmalaya dan Kabupaten Ciamis, sebelum jembatan sungai Citanduy.
+Baca artikel detikjabar, "Berlibur ke Kampung Korea di Taman Karang Resik Tasikmalaya</item>
+        <item>Pantai Karang Tawulan terletak di Kawasan Cimanuk, Kalapagenep, Cikalong, Tasikmalaya, Jawa Barat. Pantai Karang Tawulan merupakan salah satu rekomendasi wisata di Tasikmalaya, karena pantai ini cukup terjaga keasriannya. Pihak pengelola menambahkan gardu pandang dan spot instagramable supaya pengunjung betah berlama-lama di pantai ini. Pantai Karang Tawulan memiliki deburan ombak dan batu karang, seperti Tanah Lot Bali.Kawasan pantai ini ada tebing eksotis yang sedikit menjorok ke laut dengan pasir hitam. Di Pantai Karang Tawulan terdapat pulau kecil yang bernama Nusa Manuk, tempat para kawanan burung camar berkumpul di sore hari.</item>
+        <item>Kopi Sarasa, berlokasi di Jalan Setiamulya, Desa Sukasetia, Kecamatan Cisayong, Kabupaten Tasikmalaya, Jawa Barat.
+Kopi Sarasa beroperasi setiap hari, mulai pukul 09.00 hingga 21.00 WIB. Lokasinya tepat berada di tengah-tengah hutan pinus, dengan konsep cafe yang menyatu dengan alam alias outdoor.
+Cafe ini, berada di ketinggian 1043 Meter di atas permukaan laut (Mdpl). Untuk menuju ke tempat ini, kalian harus melalui jalur sempit dan menanjak.
+Ada dua jalur untuk menuju ke Kopi Sarasa, yaitu melalui jalur Cisayong. Via Jalan Cisinga ke arah Cigorowong, ataupun bisa juga melalui jalur Rajapolah.</item>
+        <item>Situ Gede Tasikmalaya terletak di Kota Tasikmalaya, Jawa Barat. Kawasan Situ Gede Tasikmalaya memiliki berbagai alternatif wisata yang dapat dinikmati oleh pengunjung. Tempat wisata yang telah berdiri sejak zaman kolonial memiliki keindahan alam yang membuat orang menarik untuk berkunjung. Situ Gede berasal dari bahasa Sunda yang artinya Situ adalah danau dan Gede adalah besar atau luas. Situ Gede Tasikmalaya telah menjadi tempat rekreasi favorit sejak zaman kolonial. Luas Situ Gede Tasikmalaya sekitar 47 hektar, kedalaman 6 meter, dan dengan pulau yang bernama Nusa seluas satu hektar di bagian tengahnya. Situ Gede Tasikmalaya memiliki sejumlah alternatif wisata, seperti wisata air, wisata ziarah, wisata olahraga, hingga wisata kuliner. Konon, pulau tersebut memiliki tiga makam yang menjadi asal-usul berdirinya Situ Gede. Salah satunya makam Eyang Prabudilaya, tokoh agama Islam dari Tasikmalaya.
+</item>
+        <item>Water park selalu menjadi alternatif destinasi wisata seru bagi keluarga yang tengah berlibur. Termasuk di Tasikmalaya, taman rekreasi permainan air menjadi tempat yang amat digemari. Teejay Waterpark, salah satu lokasi yang menawarkan wisata seru ini. Sejumlah wahana air yang menyenangkan menjadi sajian hiburan bagi anak-anak dan keluarga.</item>
     </string-array>
 
     <integer-array name="data_photo">
